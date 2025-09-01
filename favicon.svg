@@ -1,19 +1,19 @@
-     <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M12 2L2 7L12 12L22 7L12 2Z" fill="url(#logo-gradient-header-top)"/>
-            <path d="M2 7L2 17L12 22L12 12L2 7Z" fill="url(#logo-gradient-header-left)"/>
-            <path d="M22 7L22 17L12 22L12 12L22 7Z" fill="url(#logo-gradient-header-right)"/>
-            <defs>
-                <linearGradient id="logo-gradient-header-top" x1="12" y1="2" x2="12" y2="12" gradientUnits="userSpaceOnUse">
-                    <stop stopColor="#FF8A65"/>
-                    <stop offset="1" stopColor="#FF602A"/>
-                </linearGradient>
-                <linearGradient id="logo-gradient-header-left" x1="2" y1="12" x2="12" y2="17" gradientUnits="userSpaceOnUse">
-                    <stop stopColor="#FF602A" stopOpacity="0.8"/>
-                    <stop offset="1" stopColor="#C94B20"/>
-                </linearGradient>
-                <linearGradient id="logo-gradient-header-right" x1="22" y1="12" x2="12" y2="17" gradientUnits="userSpaceOnUse">
-                    <stop stopColor="#FF602A"/>
-                    <stop offset="1" stopColor="#C94B20"/>
-                </linearGradient>
-            </defs>
-        </svg>
+<svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 2L2 7L12 12L22 7L12 2Z" fill="url(#orange-gradient-top)"/>
+    <path d="M2 7L2 17L12 22L12 12L2 7Z" fill="url(#orange-gradient-left)"/>
+    <path d="M22 7L22 17L12 22L12 12L22 7Z" fill="url(#orange-gradient-right)"/>
+    <defs>
+        <linearGradient id="orange-gradient-top" x1="12" y1="2" x2="12" y2="12" gradientUnits="userSpaceOnUse">
+            <stop stopColor="#FFA74D"/>
+            <stop offset="1" stopColor="#FF8A00"/>
+        </linearGradient>
+        <linearGradient id="orange-gradient-left" x1="2" y1="12" x2="12" y2="17" gradientUnits="userSpaceOnUse">
+            <stop stopColor="#FF8A00"/>
+            <stop offset="1" stopColor="#FF6A00"/>
+        </linearGradient>
+        <linearGradient id="orange-gradient-right" x1="22" y1="12" x2="12" y2="17" gradientUnits="userSpaceOnUse">
+            <stop stopColor="#FF8A00"/>
+            <stop offset="1" stopColor="#FF6A00"/>
+        </linearGradient>
+    </defs>
+</svg>
