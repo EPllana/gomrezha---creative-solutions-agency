@@ -100,7 +100,7 @@ const About: React.FC = () => {
                         <div className="grid grid-cols-2 gap-8" ref={statsRef}>
                             <AnimatedStatItem startAnimation={startAnimation} value={100} suffix="+" label="Projects Completed" />
                             <AnimatedStatItem startAnimation={startAnimation} value={7} suffix="+" label="Years of Experience" />
-                            <AnimatedStatItem startAnimation={startAnimation} value={150} suffix="+" label="Satisfied Clients" />
+                            <AnimatedStatItem startAnimation={startAnimation} value={100} suffix="+" label="Satisfied Clients" />
                             <AnimatedStatItem startAnimation={startAnimation} value={10} suffix="+" label="Awards Won" />
                         </div>
                     </div>
