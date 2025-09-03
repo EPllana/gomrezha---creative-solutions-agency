@@ -103,7 +103,7 @@ const Partners: React.FC = () => {
         <section className="py-12 md:py-16">
             <div className="container mx-auto px-6 text-center">
                 <p className="text-xl text-brand-text-light mb-12">
-                    Powering success for 100+ companies globally
+                    Powering success for 10+ companies globally
                 </p>
                 <div ref={sliderRef} className="keen-slider">
                     {partners.map((partner, index) => (
