@@ -23,8 +23,7 @@ const Partners: React.FC = () => {
     const partners: Partner[] = [
         { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/05/2020NewLogoUPDATED-2.png' },
         { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/04/client-2-6.png' },
-        { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/04/client-1-1.png' },
-        { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/04/client-2-2.png', invert: true },
+        { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/04/client-1-1.png' , invert: true },
         { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/04/client-2-7.png' },
         { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/04/client-3-1.png', invert: true },
         { imageUrl: 'https://dotcommatrix.com/wp-content/uploads/2024/04/client-4-1.png' },
