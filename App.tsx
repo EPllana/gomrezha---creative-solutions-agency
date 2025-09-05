@@ -8,7 +8,7 @@ import Services from './components/Services';
 import Process from './components/Process';
 import Comparison from './components/Comparison';
 //import Team from './components/Team';
-import Pricing from './components/Pricing';
+//import Pricing from './components/Pricing';
 import Faq from './components/Faq';
 //import Testimonials from './components/Testimonials';
 import Cta from './components/Cta';
@@ -89,7 +89,7 @@ const App: React.FC = () => {
        
         </SectionAnimator>
         <SectionAnimator>
-          <section id="pricing"><Pricing /></section>
+
         </SectionAnimator>
         <SectionAnimator>
           <Faq />

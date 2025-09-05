@@ -1,4 +1,4 @@
-
+/*
 import React from 'react';
 
 const CheckIcon: React.FC = () => (
@@ -105,3 +105,4 @@ const Pricing: React.FC = () => {
 };
 
 export default Pricing;
+*/

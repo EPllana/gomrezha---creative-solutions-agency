@@ -33,7 +33,7 @@ const Header: React.FC = () => {
         { name: 'About', href: '#about' },
         { name: 'Works', href: '#works' },
         { name: 'Services', href: '#services' },
-        { name: 'Pricing', href: '#pricing' },
+        //{ name: 'Pricing', href: '#pricing' },
     ];
 
     // Effect to lock body scroll when mobile menu is open
