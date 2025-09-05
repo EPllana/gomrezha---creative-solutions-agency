@@ -1,4 +1,4 @@
-
+/*
 import React from 'react';
 
 interface TeamMemberProps {
@@ -69,3 +69,4 @@ const Team: React.FC = () => {
 };
 
 export default Team;
+*/

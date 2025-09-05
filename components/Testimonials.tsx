@@ -1,4 +1,4 @@
-
+/*
 import React, { useState } from 'react';
 import { useKeenSlider } from 'keen-slider/react';
 
@@ -121,3 +121,4 @@ const Testimonials: React.FC = () => {
 };
 
 export default Testimonials;
+*/

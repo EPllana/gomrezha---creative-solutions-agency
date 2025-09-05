@@ -7,10 +7,10 @@ import Showcase from './components/Showcase';
 import Services from './components/Services';
 import Process from './components/Process';
 import Comparison from './components/Comparison';
-import Team from './components/Team';
+//import Team from './components/Team';
 import Pricing from './components/Pricing';
 import Faq from './components/Faq';
-import Testimonials from './components/Testimonials';
+//import Testimonials from './components/Testimonials';
 import Cta from './components/Cta';
 import Footer from './components/Footer';
 import BackToTopButton from './components/BackToTopButton';
@@ -86,7 +86,7 @@ const App: React.FC = () => {
           <Comparison />
         </SectionAnimator>
         <SectionAnimator>
-          <Team />
+       
         </SectionAnimator>
         <SectionAnimator>
           <section id="pricing"><Pricing /></section>
@@ -95,7 +95,6 @@ const App: React.FC = () => {
           <Faq />
         </SectionAnimator>
         <SectionAnimator>
-          <Testimonials />
         </SectionAnimator>
         <SectionAnimator>
           <section id="contact">
